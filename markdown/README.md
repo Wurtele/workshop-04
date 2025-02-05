@@ -4,11 +4,11 @@ By: Owen Wurtele
 
 ## Emphasis
 
-Consistently recognized as one of *Canada’s top universities*, Trent University is home to a _dynamic community_ of scholars embodying our motto nunc cognosco ex parte – now I know in part – valuing what has been learned, and what is yet to be discovered.
+Consistently recognized as one of *Canada’s top universities*, Trent University is home to a *dynamic community* of scholars embodying our motto nunc cognosco ex parte – now I know in part – valuing what has been learned, and what is yet to be discovered.
 
 ## Strong
 
-Attracting **excellent** students from across the country and around the world, Trent is known for leadership in teaching, research, and student __satisfaction__. Here, students connect and collaborate with faculty, staff, and their peers through diverse communities that span our unique collegiate communities, disciplines, hands-on research, co-op and career experience, and community-based activities.
+Attracting **excellent** students from across the country and around the world, Trent is known for leadership in teaching, research, and student **satisfaction__. Here, students connect and collaborate with faculty, staff, and their peers through diverse communities that span our unique collegiate communities, disciplines, hands-on research, co-op and career experience, and community-based activities.
 
 ## List
 
